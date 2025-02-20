@@ -2,15 +2,14 @@
 ![Btime](./img/btime.jpg)
 
 ## Índice
-- [Descrição do Projeto](#descricao)
-- <a href="#descricaoprojeto">Descrição do Projeto</a>
-- <a href="#funcinalidades">Funcionalidades do Projeto</a>
+- <a href="#Descrição">Descrição do Projeto</a>
+- <a href="#Funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#demonstracao">Demonstração da Aplicação</a>
 - <a href="#acesso">Acesso ao Projeto</a>
 - <a href="#tecnologias">Tecnologias Utilizadas</a>
 - <a href="#autoreas">Pessoas Autoras</a>
 
-## 📄 Descrição do Projeto
+## 📄 Descrição
 Criação de dois scripts em Python que automatizem a coleta de dados do website Yahoo Finance. O primeiro script deve utilizar técnicas de web scraping, o segundo deve realizar a coleta de dados por meio de uma API pública relacionada ao mesmo tema. Em ambos os casos, os dados extraídos devem ser formatados e salvos em um arquivo CSV.
 
 ### Script 1: Web Scraping
@@ -21,7 +20,7 @@ O script deve ser capaz de lidar com bloqueios e outras restrições comuns do w
 Utilizar Python para acessar uma API pública que forneça dados semelhantes aos obtidos no web scraping.
 Implementar a requisição à API e formatar os dados recebidos de maneira semelhante ao script de web scraping. 
 
-## ✔️ Funcionalidades do Projeto
+## ✔️ Funcionalidades
 ### Script 1: Web Scraping
 - [x] Baixar o arquivo Chromedriver em ZIP
 - [x] Extrair arquivos da pasta ZIP
