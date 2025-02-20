@@ -2,6 +2,7 @@
 ![Btime](./img/btime.jpg)
 
 ## Índice
+<!--ts-->
 * [Descrição](#Descrição)
 - <a href="#Descrição">Descrição do Projeto</a>
 - <a href="#Funcionalidades">Funcionalidades do Projeto</a>
@@ -9,6 +10,7 @@
 - <a href="#acesso">Acesso ao Projeto</a>
 - <a href="#tecnologias">Tecnologias Utilizadas</a>
 - <a href="#autoreas">Pessoas Autoras</a>
+<!--te-->
 
 ## 📄 Descrição
 Criação de dois scripts em Python que automatizem a coleta de dados do website Yahoo Finance. O primeiro script deve utilizar técnicas de web scraping, o segundo deve realizar a coleta de dados por meio de uma API pública relacionada ao mesmo tema. Em ambos os casos, os dados extraídos devem ser formatados e salvos em um arquivo CSV.
