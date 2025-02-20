@@ -2,6 +2,7 @@
 ![Btime](./img/btime.jpg)
 
 ## Índice
+[Descrição](#descrição)
 - <a href="#Descrição">Descrição do Projeto</a>
 - <a href="#Funcionalidades">Funcionalidades do Projeto</a>
 - <a href="#demonstracao">Demonstração da Aplicação</a>
